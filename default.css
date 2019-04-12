@@ -1,0 +1,43 @@
+body{margin:0;padding:0;background:#ffe;font-size:14px;font-family:'微软雅黑','宋体',sans-serif;color:#231F20;overflow:auto}
+a {color:#000;font-size:14px;}
+#main{width:100%;}
+#wrap{position:relative;margin:0 auto;width:1100px;height:645px;margin-top:10px;}
+#text{width:550px;height:425px;left:-120px;top:40px;position:absolute;}
+#code1{display:none;font-size:20px;}
+#code2{display:none;font-size:20px;}
+#code3{display:none;font-size:20px;}
+#code4{display:none;font-size:20px;}
+#code5{display:none;font-size:20px;}
+#code6{display:none;font-size:20px;}
+#code7{display:none;font-size:20px;}
+#code8{display:none;font-size:20px;}
+#code9{display:none;font-size:20px;}
+#code10{display:none;font-size:20px;}
+#code11{display:none;font-size:20px;}
+#code12{display:none;font-size:20px;}
+#code13{display:none;font-size:20px;}
+#clock-box {position:absolute;left:-140px;top:470px;font-size:30px;line-height: 75px;display:none;}
+#clock-box a {font-size:28px;text-decoration:none;}
+#clock{margin-left:190px;}
+#clock .digit {font-size:64px;}
+#canvas{margin:0 auto;width:1100px;height:645px;}
+#error{margin:0 auto;text-align:center;margin-top:60px;display:none;}
+.hand{cursor:pointer;}
+.say{margin-left:5px;}
+.space{margin-right:190px;}
+#imgs img{
+    position:absolute;
+    top: 50px;
+    left: -145px;
+    height: 375px;
+    width: 610px;
+    display: none;
+}
+#aaa{
+    display: none;
+    position: absolute;
+    left: 60px;
+    height: 450px;
+    width: 600px;
+}
+
